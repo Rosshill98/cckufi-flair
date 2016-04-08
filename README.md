@@ -1,9 +1,9 @@
+Robin-Flair
 ===
+
 This is a fork of lachlanhunt's [cckufi-flair](https://github.com/lachlanhunt/cckufi-flair), a script to highlight users who reached Tier 17 in Reddit.com's Robin experiment.
 
 This version tags those who reached Tier 17, as well as those who were members of the room ccandeShleAnazwtsasp.
-
-===
 
 This is a userscript for the ccandeShleAnazwtsasp subreddit. This is designed to add a flair to all known redditors who were lucky enough to make it to Tier 17 in Reddit's Robin, or any members of the room ccande. (April Fools 2016 experiment).
 
