@@ -9,7 +9,7 @@ This is a userscript for the ccandeShleAnazwtsasp subreddit. This is designed to
 
 Install a userscript extension such as [greasemonkey](http://www.greasespot.net/) or [tampermonkey](http://tampermonkey.net)
 
-Then, [install the script](https://github.com/Rosshill98/robin-flair/blob/master/robin-flair.user.js).
+Then, [install the script](https://github.com/Rosshill98/robin-flair/raw/master/robin-flair.user.js).
 
 If you get a bunch of code instead of it installing, you can copy and paste the code as a new script in greasemonkey/tampermonkey.
 
