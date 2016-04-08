@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name        ccKufi-flair
+// @name        robin-flair
 // @namespace   http://rosshill.ca/
 // @description Tags members of ccKufi and ccande robin rooms
-// @author      lachlanhunt
-// @updateURL   https://github.com/Rosshill98/cckufi-flair/edit/master/cckufi-flair.user.js
+// @author      Ross Hill
+// @updateURL   https://github.com/Rosshill98/robin-flair/raw/master/robin-flair.user.js
 // @include     https://www.reddit.com/*
 // @include     https://np.reddit.com/*
 // @include     https://m.reddit.com/*
