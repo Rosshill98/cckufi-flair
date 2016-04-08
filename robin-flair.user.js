@@ -1,13 +1,13 @@
 // ==UserScript==
 // @name        ccKufi-flair
 // @namespace   http://rosshill.ca/
-// @description Highlights Members of the exclusive ccKufi Robin Room
+// @description Tags members of ccKufi and ccande robin rooms
 // @author      lachlanhunt
 // @updateURL   https://github.com/Rosshill98/cckufi-flair/edit/master/cckufi-flair.user.js
 // @include     https://www.reddit.com/*
 // @include     https://np.reddit.com/*
 // @include     https://m.reddit.com/*
-// @version     0.0.1
+// @version     0.0.2
 // @grant       none
 // ==/UserScript==
 
