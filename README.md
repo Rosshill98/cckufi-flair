@@ -1,5 +1,4 @@
-Robin-Flair
-
+===
 This is a fork of lachlanhunt's [cckufi-flair](https://github.com/lachlanhunt/cckufi-flair), a script to highlight users who reached Tier 17 in Reddit.com's Robin experiment.
 
 This version tags those who reached Tier 17, as well as those who were members of the room ccandeShleAnazwtsasp.
